@@ -12,7 +12,9 @@ OpenGL rendering system that builds a ray-tracing model that supports different 
 
 ## Render Gallery
 
-![Render 1](https://raw.githubusercontent.com/albert-espin/ray-tracing/master/Renders/fig1.png)
-![Render 2](https://raw.githubusercontent.com/albert-espin/ray-tracing/master/Renders/fig2.png)
-![Render 3](https://raw.githubusercontent.com/albert-espin/ray-tracing/master/Renders/fig3.png)
-![Render 4](https://raw.githubusercontent.com/albert-espin/ray-tracing/master/Renders/fig4.png)
+![](Renders/fig1.png)
+![](Renders/fig2.png)
+![](Renders/fig3.png)
+![](Renders/fig4.png)
+
+
