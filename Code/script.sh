@@ -1,0 +1,1 @@
+g++ -g -std=c++11 RayTracing.cpp BoundaryObject.cpp Camera.cpp Cara.cpp Hitable.cpp Lambertian.cpp Material.cpp Object.cpp Plane.cpp  ReadFile.cpp Scene.cpp Sphere.cpp Triangle.cpp -o main  -lGL -lGLU -lglut
