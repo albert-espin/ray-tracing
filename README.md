@@ -4,7 +4,7 @@ OpenGL rendering system that builds a ray-tracing model that supports different 
 
 | | | |
 |-|-|-|
-| **Programming language**  | Python 2 |
+| **Programming language**  | C++ 11 |
 | **Language**   | English (variables and functions), Catalan (comments) |
 | **Authors** | Albert Espín and Pau Sanchez (partially, since the base code was provided by Prof. Anna Puig) |
 | **Date**  | Q1 2017  |
